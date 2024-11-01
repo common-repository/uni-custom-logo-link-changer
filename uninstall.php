@@ -1,0 +1,1 @@
+<?php delete_option( 'uni-logo-url' ); ?>
